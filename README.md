@@ -2,7 +2,7 @@
 Final Project for the Ironhack Data Analytics Bootcamp
 
 ## OBJECTIVE:
-This project aims to create a product recommender using image similarities. 
+This project aims to create a product recommender using image embeddings and similarities. 
 
 ## PROCESS:
 To do so, here are the steps taken:
